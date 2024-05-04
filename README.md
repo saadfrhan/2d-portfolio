@@ -2,7 +2,7 @@
 
 A portfolio created using Kaboom.js and TypeScript.
 
-![2D Portfolio](./preview.png)
+![2D Portfolio](./public/preview.png)
 
 ## Getting Started
 
