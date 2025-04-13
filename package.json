@@ -11,7 +11,7 @@
   "devDependencies": {
     "terser": "^5.31.0",
     "typescript": "^5.2.2",
-    "vite": "^5.4.17"
+    "vite": "^5.4.18"
   },
   "dependencies": {
     "kaboom": "^3000.1.17"
